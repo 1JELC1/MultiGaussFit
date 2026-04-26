@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "López-Cervantes"
+    given-names: "Juan Emanuel"
+    orcid: "https://orcid.org/0009-0001-5428-6337"
+    affiliation: "Universidad Autónoma del Estado de Hidalgo"
+title: "MultiGaussFit: Signal Preprocessing and Multi-Gaussian Deconvolution GUI"
+version: 1.0.0
+date-released: 2026-04-26
+url: "https://github.com/1JELC1/MultiGaussFit"
+repository-code: "https://github.com/1JELC1/MultiGaussFit"
+keywords:
+  - signal-processing
+  - gaussian-deconvolution
+  - curve-fitting
+  - spectroscopy
+  - python
+  - tkinter
+  - differential-evolution
+  - peak-fitting
+  - baseline-correction
+  - savitzky-golay
+  - fourier-transform
+  - data-analysis
+abstract: "A desktop GUI application for interactive signal preprocessing and multi-Gaussian deconvolution. Supports CSV data loading, baseline correction, noise filtering (Savitzky-Golay and Fourier Transform), and automated peak fitting using differential evolution optimization. Includes batch processing and export capabilities."
+license: Apache-2.0
